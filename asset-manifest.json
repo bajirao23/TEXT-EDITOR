@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git@github.com:bajirao23/TEXT-EDITOR.git/static/css/main.5e9ce073.css",
+    "main.js": "/git@github.com:bajirao23/TEXT-EDITOR.git/static/js/main.cda898f9.js",
+    "index.html": "/git@github.com:bajirao23/TEXT-EDITOR.git/index.html",
+    "main.5e9ce073.css.map": "/git@github.com:bajirao23/TEXT-EDITOR.git/static/css/main.5e9ce073.css.map",
+    "main.cda898f9.js.map": "/git@github.com:bajirao23/TEXT-EDITOR.git/static/js/main.cda898f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e9ce073.css",
+    "static/js/main.cda898f9.js"
+  ]
+}
